@@ -6,4 +6,5 @@ You can specify the channel's name, message sended to these channels, bot activi
 Also, dont forget to add the bot's token in the .ini file.
 
 If you want to start the bot type "!start", but it depends on prefix that you've set in configuration file. In my case it's '!'.
+
 Enjoy.
